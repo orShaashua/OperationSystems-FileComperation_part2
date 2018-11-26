@@ -1,6 +1,5 @@
 /**
  * Name: Or Shaashua
- * ID:311148811
  */
 #include <stdio.h>
 #include <string.h>
